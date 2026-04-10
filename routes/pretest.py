@@ -11,7 +11,7 @@ pretest_bp = Blueprint('pretest', __name__)
 questions = {
     "section1": [
         {
-            "question": "Which behavioral pattern suggests neurodevelopmental disorder?",
+            "question": "Which behavioral pattern in a student most strongly suggests an underlying neurodevelopmental disorder rather than situational stress?",
             "options": [
                 "Refusal after bullying",
                 "Difficulty adjusting to schedule",
@@ -21,7 +21,7 @@ questions = {
             "answer": 1
         },
         {
-            "question": "Student sudden underachievement — first factor?",
+            "question": "A student with a history of academic success has suddenly started showing signs of underachievement, marked by increased irritability, social withdrawal, and complaints of physical discomfort. Which factor should be explored first in understanding this sudden change in behavior?",
             "options": [
                 "Medical condition",
                 "Family stress",
@@ -31,7 +31,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "SLD vs poor performance?",
+            "question": "What distinguishes Specific Learning Disability (SLD) from general poor academic performance?",
             "options": [
                 "Only under stress",
                 "Only verbal",
@@ -41,7 +41,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "Untreated childhood depression leads to?",
+            "question": "Which of the following best explains the long-term impact of untreated childhood depression?",
             "options": [
                 "Less competition",
                 "Antisocial traits",
@@ -51,7 +51,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "Why structured observation?",
+            "question": "Why is structured observation preferred in early identification of emotional issues in school children?",
             "options": [
                 "Evaluate growth",
                 "Remove academic testing",
@@ -64,7 +64,7 @@ questions = {
 
     "section2": [
         {
-            "question": "Discussing suicide in schools?",
+            "question": "Some counselors worry that addressing suicide in schools may increase the risk of such behavior. According to recent perspectives, the more accurate understanding is:",
             "options": [
                 "Avoid topic",
                 "Open discussion reduces risk",
@@ -74,7 +74,7 @@ questions = {
             "answer": 1
         },
         {
-            "question": "Ignoring emotional issues unless severe?",
+            "question": "A counselor believes that emotional health concerns should only be addressed if a student shows severe behavioral issues. This belief may:",
             "options": [
                 "Focus resources",
                 "Miss anxiety/depression",
@@ -84,7 +84,7 @@ questions = {
             "answer": 1
         },
         {
-            "question": "Children too young for emotions?",
+            "question": "A counselor avoids discussing emotional well-being because they assume children “are too young to talk about such things.” This belief:",
             "options": [
                 "Age appropriate",
                 "Protects stress",
@@ -94,7 +94,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "Open emotional discussion helps?",
+            "question": " A counselor who encourages open discussions about emotional stress in class is most likely to: ",
             "options": [
                 "Uncomfortable",
                 "Increase problems",
@@ -104,7 +104,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "Academic issues = motivation?",
+            "question": ".Believing that a child’s academic difficulties are purely motivational — without exploring emotional or cognitive causes — may result in:",
             "options": [
                 "Better management",
                 "Miss disabilities",
@@ -114,7 +114,7 @@ questions = {
             "answer": 1
         },
         {
-            "question": "Referral as last resort?",
+            "question": "If a counselor views referral to a mental health professional as a last resort, it may:",
             "options": [
                 "Strengthens autonomy",
                 "Supports confidentiality",
@@ -124,7 +124,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "No support expectation?",
+            "question": "A belief that students with psychological issues should adjust to regular school routines without support may result in:",
             "options": [
                 "Faster integration",
                 "More independence",
@@ -134,7 +134,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "Emotion discussion reduces discipline?",
+            "question": ".If a counselor assumes that discussing emotions in school will reduce discipline and focus, this attitude:",
             "options": [
                 "Encourages expression",
                 "Misunderstands mental health",
@@ -144,7 +144,7 @@ questions = {
             "answer": 1
         },
         {
-            "question": "Inclusive attitude?",
+            "question": "Which of the following reflects an inclusive and growth-focused attitude?",
             "options": [
                 "Separate students",
                 "Treat same",
@@ -154,7 +154,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "Handling parent concern?",
+            "question": "A counselor worries that parents will react negatively to a mental health referral. Which attitude best balances concern and responsibility?",
             "options": [
                 "Wait for parents",
                 "Sensitive early discussion",
@@ -167,7 +167,7 @@ questions = {
 
     "section3": [
         {
-            "question": "Withdrawn student first step?",
+            "question": "You observe a student displaying social withdrawal, frequent mood swings, and verbal expressions of hopelessness. What should be your first structured step?",
             "options": [
                 "Ask classmates",
                 "Write feelings",
@@ -177,7 +177,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "ADHD disruption next step?",
+            "question": "A student with ADHD is disrupting class repeatedly despite previous behavioral reinforcement. What should your next practical action include?",
             "options": [
                 "Suspend",
                 "More breaks",
@@ -187,7 +187,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "Sensory distress intervention?",
+            "question": "When a child shows sensory distress and meltdown during assemblies, what immediate school-level intervention is appropriate?",
             "options": [
                 "Discipline",
                 "Force exposure",
@@ -197,7 +197,7 @@ questions = {
             "answer": 2
         },
         {
-            "question": "Suspected SLD action?",
+            "question": "You suspect a student has Specific Learning Disability, but they are still in mainstream classes. What is your most appropriate course of action?",
             "options": [
                 "Repeat year",
                 "Multi-sensory + referral",
@@ -207,7 +207,7 @@ questions = {
             "answer": 1
         },
         {
-            "question": "Repetitive behavior next step?",
+            "question": "During play observation, a child repeats patterns, avoids interaction, and lines up objects. What is your practical next step?",
             "options": [
                 "Group games",
                 "Structured observation",
