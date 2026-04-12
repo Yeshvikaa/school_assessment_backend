@@ -21,7 +21,7 @@ questions = {
             "answer": 1
         },
         {
-            "question": "A student with a history of academic success has suddenly started showing signs of underachievement, marked by increased irritability, social withdrawal, and complaints of physical discomfort. Which factor should be explored first?",
+            "question": "A student with a history of academic success has suddenly started showing signs of underachievement, marked by increased irritability, social withdrawal, and complaints of physical discomfort. Which factor should be explored first in understanding this sudden change in behavior?",
             "options": [
                 "A medical condition, such as chronic pain or gastrointestinal issues",
                 "A sudden shift in family dynamics, possibly indicating stress at home",
@@ -59,12 +59,62 @@ questions = {
                 "It ensures children follow school rules"
             ],
             "answer": 2
+        },
+        {
+            "question": "Which of the following would be the clearest indicator for referring a student for possible Intellectual Disability (ID)?",
+            "options": [
+                "Avoids reading aloud due to fear of embarrassment",
+                "Shows physical complaints like headaches during exams",
+                "Struggles with basic academic skills despite repeated help and support",
+                "Often breaks rules and shows defiance toward authority figures"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A student frequently complains of headaches and stomachaches, yet medical evaluations show no physical cause. They also demonstrate a high level of perfectionism, are often anxious about making mistakes, and avoid group activities. What might be the underlying issue?",
+            "options": [
+                "A mood disorder with somatic symptoms",
+                "Generalized anxiety disorder",
+                "A primary somatic disorder with anxiety as a secondary feature",
+                "A personality disorder with a focus on academic performance"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "A student consistently displays aggressive behavior towards others, takes pleasure in seeing others upset, and has a history of vandalism and rule-breaking. Despite frequent disciplinary actions, the behavior does not seem to improve. What is the most likely explanation for this behavior?",
+            "options": [
+                "Exposure to significant trauma or abuse leading to maladaptive coping",
+                "A conduct disorder, with an emphasis on a lack of empathy for others",
+                "A personality disorder, particularly antisocial personality traits",
+                "A learned behavior based on observing aggressive role models"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "A student repeatedly complains of headaches and stomachaches with no medical basis, particularly during tests or presentations. This suggests:",
+            "options": [
+                "Social skills deficit",
+                "Autism Spectrum traits",
+                "Anxiety-related somatic symptoms",
+                "Oppositional behavior"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "When evaluating the emotional wellbeing of a student who has been withdrawn and irritable for weeks, which method is most likely to provide a comprehensive understanding of their mental health?",
+            "options": [
+                "Direct interviews with the student’s peers to assess social interactions",
+                "A series of self-reported questionnaires assessing mood and behavior",
+                "A combination of teacher observations, parental reports, and a structured psychological assessment",
+                "Observation of the student’s behavior during unstructured play or free time"
+            ],
+            "answer": 2
         }
     ],
 
     "section2": [
         {
-            "question": "Some counselors worry that addressing suicide in schools may increase the risk of such behavior. The more accurate understanding is:",
+            "question": "Some counselors worry that addressing suicide in schools may increase the risk of such behavior. According to recent perspectives, the more accurate understanding is:",
             "options": [
                 "It’s safer not to mention suicide at all",
                 "Open, sensitive discussion with proper support reduces risk and stigma",
@@ -110,6 +160,56 @@ questions = {
                 "Missed identification of learning disabilities or depression",
                 "More effective peer discipline",
                 "Better time management for teachers"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "If a counselor views referral to a mental health professional as a last resort, it may:",
+            "options": [
+                "Strengthen school autonomy",
+                "Support student confidentiality",
+                "Delay access to early intervention",
+                "Reduce dependency on outside help"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A belief that students with psychological issues should adjust to regular school routines without support may result in:",
+            "options": [
+                "Faster classroom integration",
+                "Greater independence and resilience",
+                "Missed opportunities for inclusive interventions",
+                "More effective time management for teachers"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "If a counselor assumes that discussing emotions in school will reduce discipline and focus, this attitude:",
+            "options": [
+                "Encourages emotional expression",
+                "Misunderstands the role of mental health in academic success",
+                "Enhances behavior regulation strategies",
+                "Aligns with structured classroom routines"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which of the following reflects an inclusive and growth-focused attitude?",
+            "options": [
+                "Students with psychological needs should be separated to avoid disrupting others.",
+                "All students should be treated the same, regardless of their difficulties.",
+                "With support, most children can learn and thrive in regular classrooms.",
+                "It’s better to avoid interventions that highlight a child’s issues."
+            ],
+            "answer": 2
+        },
+        {
+            "question": "A counselor worries that parents will react negatively to a mental health referral. Which attitude best balances concern and responsibility?",
+            "options": [
+                "Unless parents ask, I won’t bring it up.",
+                "Early conversations with sensitivity can help families understand and accept support.",
+                "Let the teacher talk to them first.",
+                "It’s better to wait until the problem becomes more obvious."
             ],
             "answer": 1
         }
@@ -165,6 +265,56 @@ questions = {
                 "Conduct an immediate IQ test"
             ],
             "answer": 1
+        },
+        {
+            "question": "A child is constantly failing to follow classroom routines and shows signs of low IQ and adaptive delays. What’s the most appropriate intervention plan?",
+            "options": [
+                "Introduce advanced academic material to build stimulation",
+                "Use repetitive instructions with peer mentorship and routine training",
+                "Refer immediately to a behavior therapist",
+                "Shift the student to home-schooling"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "You observe a student bullying peers, skipping classes, and showing no empathy. After repeated interventions fail, your next best action is to:",
+            "options": [
+                "Request a parent-teacher meeting and enforce detention",
+                "Refer to psychiatrist for conduct evaluation and intervention planning",
+                "Let the behavior pass unless violence occurs",
+                "Place them in special education directly"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "A student with anxiety avoids tests and complains of stomachaches before class. Which intervention aligns with best school-based practice?",
+            "options": [
+                "Use relaxation techniques and provide extended time for tasks",
+                "Remove them from all performance-based assessments",
+                "Enforce timed exams to train their stamina",
+                "Ignore complaints unless they faint or vomit"
+            ],
+            "answer": 0
+        },
+        {
+            "question": "What is the best way to assess if classroom behavior is due to emotional distress or a neurological condition?",
+            "options": [
+                "Monitor performance in only one subject",
+                "Use teacher interviews, peer analysis, and structured observations",
+                "Assign the child to remedial tuition",
+                "Wait to see long-term academic scores"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What should a counselor do when a child repeatedly says they feel unloved and wants to disappear?",
+            "options": [
+                "Reassure them it’s just teenage mood",
+                "Ask parents to restrict screen time",
+                "Document the expression, assess risk, and refer for mental health evaluation",
+                "Suggest they speak to a friend"
+            ],
+            "answer": 2
         }
     ]
 }
@@ -218,7 +368,6 @@ def submit_posttest():
 
         total_questions = len(all_questions)
 
-        # Save result to DB
         result = PosttestResult(
             email=email,
             answers=json.dumps(processed_answers),
